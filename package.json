@@ -1,5 +1,6 @@
 {
-  "name": "snd",
+  "name": "snd-dep",
+  "private": true,
   "version": "0.1.0",
   "description": "Dummy sound asset module to include as dependency when testing",
   "main": "index.js",
